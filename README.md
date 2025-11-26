@@ -28,4 +28,4 @@ Este projeto foi desenvolvido em equipe como parte da disciplina de Linguagem de
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/agenda-facil.git](https://github.com/seu-usuario/agenda-facil.git)
+   git clone https://github.com/AmandaCauponi1/AgendaFacil.git
